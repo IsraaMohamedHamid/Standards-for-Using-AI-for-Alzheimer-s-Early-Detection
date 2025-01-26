@@ -11,7 +11,7 @@ This project outlines standards for utilizing artificial intelligence (AI) in th
 
 ## Content
 The project consists of a single document available in PDF format:
-- **[Standards for Using AI for Alzheimer's Early Detection](Standards-for-Using-AI-for-Alzheimers-Early-Detection.pdf)**
+- **[Standards for Using AI for Alzheimer’s Early Detection](Standards%20for%20Using%20AI%20for%20Alzheimer%E2%80%99s%20Early%20Detection.pdf)**
 
 ## How to Use
 1. Download the PDF file from the repository.
